@@ -4,7 +4,7 @@
 
 ## Manual de Usuario
 
-[<img src="screen.png" width="300">](Demo)
+[<img src="http://www.timegrid.io/blog/wp-content/uploads/2015/07/Captura-de-pantalla-de-2015-07-26-074348-1024x576.png" width="300">](Ejemplo del panel de control)
 
 ### Qué es
 
@@ -23,6 +23,22 @@ Podés usarla desde
   - tu PC
   - tu tablet
   - tu móvil
+
+#### Para empezar
+
+##### Prestadores
+
+  - Te registrás por única vez en el sitio
+  - Establecés los servicios que das como prestador
+  - Publicás tu disponibilidad
+  - ¡Listo! Ya podés empezar a dar turnos
+
+##### Usuarios
+
+  - Te registrás por única vez en el sitio
+  - Te suscribís al prestador que te gusta
+  - Pedís un turno para el día y servicio que querés
+  - ¡Listo! Te están esperando :)
 
 ### Problemas
 
