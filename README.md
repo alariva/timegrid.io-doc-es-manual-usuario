@@ -28,17 +28,36 @@ Podés usarla desde
 
 ##### Prestadores
 
-  - Te registrás por única vez en el sitio
-  - Establecés los servicios que das como prestador
-  - Publicás tu disponibilidad
-  - ¡Listo! Ya podés empezar a dar turnos
+  1. Te registrás por única vez en el sitio
+  2. Establecés los servicios que das como prestador
+  3. Publicás tu disponibilidad
+  4. __¡Listo!__ Ya podés empezar a dar turnos
 
 ##### Usuarios
 
-  - Te registrás por única vez en el sitio
-  - Te suscribís al prestador que te gusta
-  - Pedís un turno para el día y servicio que querés
-  - ¡Listo! Te están esperando :)
+  1. Te registrás por única vez en el sitio
+  2. Te suscribís al prestador que te gusta
+  3. Pedís un turno para el día y servicio que querés
+  4. __¡Listo!__ Te están esperando :)
+
+### ¿ Puedo usar timegrid.io en mi rubro ?
+
+timegrid.io está pensado para crecer. Si tu rubro aún no está en esta lista, no te
+preocupes. Lo agregaremos pronto.
+
+Ruro | Esquema de turnos
+------------ | -------------
+Taller Mecánico | Por día
+Consultorio Médico | Por día
+Fotografía | Por día
+
+¡También podés contactarnos para obtener nuestra ayuda!
+
+### Estamos trabajando
+
+  - [X] Idioma español
+  - [ ] Agregar nuevos rubros
+  - [ ] Darte videos paso-a-paso
 
 ### Problemas
 
