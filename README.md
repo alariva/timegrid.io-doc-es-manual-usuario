@@ -45,7 +45,7 @@ Podés usarla desde
 timegrid.io está pensado para crecer. Si tu rubro aún no está en esta lista, no te
 preocupes. Lo agregaremos pronto.
 
-Ruro | Esquema de turnos
+Rubro | Esquema de turnos
 ------------ | -------------
 Taller Mecánico | Por día
 Consultorio Médico | Por día
@@ -53,11 +53,10 @@ Fotografía | Por día
 
 ¡También podés contactarnos para obtener nuestra ayuda!
 
-### Estamos trabajando
+### Estamos trabajando en
 
-  - [X] Idioma español
-  - [ ] Agregar nuevos rubros
-  - [ ] Darte videos paso-a-paso
+  - Agregar nuevos rubros
+  - Darte videos paso-a-paso
 
 ### Problemas
 
